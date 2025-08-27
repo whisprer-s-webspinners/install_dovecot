@@ -85,3 +85,10 @@ with open(script_path, w) as f
     f.write(mailserver_script)
 
 script_path
+
+
+Dont foget to open port fucking 25!!!!
+
+`sudo ufw allow 25/tcp`
+
+ok? dont trust fucking bots that can write this much instructions and forget to tell you to open the fucking goddamn firewall. :| fuming...
